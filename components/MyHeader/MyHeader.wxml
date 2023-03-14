@@ -1,0 +1,9 @@
+<!--components/MyHeader/MyHeader.wxml-->
+<text>components/MyHeader/MyHeader.wxml</text>
+<view class="my_header">
+  {{cData}}
+  <view>
+    <slot></slot>
+  </view>
+  这是后续
+</view>
