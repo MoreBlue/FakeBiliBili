@@ -18,3 +18,6 @@ https://www.fastmock.site/mock/5f4767c8e73c0e9f4b120d0f9fd76ca3/bili/videoDetail
 https://www.fastmock.site/mock/5f4767c8e73c0e9f4b120d0f9fd76ca3/bili/othersList?id=xxx
 评论列表：
 https://www.fastmock.site/mock/5f4767c8e73c0e9f4b120d0f9fd76ca3/bili/commentsList?id=xxx
+
+### 运行方式
+下载到本地后，导入微信开发者工具
