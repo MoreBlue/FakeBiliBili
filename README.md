@@ -21,3 +21,6 @@ https://www.fastmock.site/mock/5f4767c8e73c0e9f4b120d0f9fd76ca3/bili/commentsLis
 
 ### 运行方式
 下载到本地后，导入微信开发者工具
+
+### 界面预览
+![alt 动图预览](https://github.com/MoreBlue/mdimg/blob/master/TyporaImg/PicGo/28%E8%8A%82%E8%AF%BE%E5%BF%AB%E9%80%9F%E7%8E%A9%E8%BD%AC%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F-%E7%A8%8B%E5%BA%8F%E7%95%8C%E9%9D%A2-20230314.gif?raw=true "预览动图")
