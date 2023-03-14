@@ -1,0 +1,33 @@
+{
+  "pages":[
+    "pages/indexBili/indexBili",
+    "pages/detail/detail",
+    "pages/indexNav/indexNav",
+    "pages/index2/index2",
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"dark",
+    "navigationBarBackgroundColor": "#000",
+    "navigationBarTitleText": "全局-首页",
+    "navigationBarTextStyle":"white",
+    "enablePullDownRefresh": true
+  },
+  "tabBar": {
+    "list": [{
+      "pagePath": "pages/index/index",
+      "text": "程序的首页",
+      "iconPath": "icons/首页1.png",
+      "selectedIconPath": "icons/首页2.png"
+    },
+    {
+      "pagePath": "pages/logs/logs",
+      "text": "系统的日志",
+      "iconPath": "icons/日志1.png",
+      "selectedIconPath": "icons/日志2.png"
+    }]
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
