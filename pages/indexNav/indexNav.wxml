@@ -1,0 +1,5 @@
+<!--pages/indexNav/indexNav.wxml-->
+<text>pages/indexNav/indexNav.wxml</text>
+<navigator url="../index2/index2" open-type="navigate">导航组件-类似于链接标签-跳转到index2</navigator>
+<video controls="true" duration="40" muted="true" src="https://vd3.bdstatic.com/mda-ji3enk8w86u2b92s/sc/mda-ji3enk8w86u2b92s.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1678687589-0-0-2bd64c6da3e9337e108065967dc385ee&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2189419548&vid=9046497282413735164&abtest=107354_1-107353_1&klogid=2189419548"/>
+<MyHeader>-----</MyHeader>

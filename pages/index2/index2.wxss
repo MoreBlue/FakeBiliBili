@@ -1,0 +1,12 @@
+/* pages/index2/index2.wxss */
+.hc{
+  font-size: large;
+}
+swiper{
+  width: 100%;
+  height: 150px;
+}
+
+image{
+  width: 100%;
+}

@@ -1,0 +1,21 @@
+<!--pages/index2/index2.wxml-->
+<swiper autoplay="true" indicator-dots="true" circular="true" interval="1000">
+  <swiper-item><image src="../../icons/日志2.png" mode="widthFix"/></swiper-item>
+  <swiper-item><image src="../../icons/pic.jpg" mode="widthFix"/></swiper-item>
+  <swiper-item><image src="../../icons/日志1.png" mode="widthFix"/></swiper-item>
+  <swiper-item><image src="../../icons/首页1.png" mode="widthFix"/></swiper-item>
+  <swiper-item><image src="../../icons/首页2.png" mode="widthFix"/></swiper-item>
+</swiper>
+<view>
+  index2-{{msg}}
+</view>
+<view data-id="{{title}}" hover-class="hc">
+  这是 title
+</view>
+<checkbox checked/>
+<checkbox checked="{{false}}"/>
+<text>pages/index2/index2.wxml</text>
+<text selectable="true">测试是否可选</text>
+<view>
+  <image src="../../icons/pic.jpg" mode="widthFix"/>
+</view>
